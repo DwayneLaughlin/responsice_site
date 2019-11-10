@@ -1,9 +1,9 @@
 .bordlength {
     border: 30px;
-}
+};
 
-.picbox{
-   
+.picz{
+    display: none;
     float:left;
     text-align: center;
     justify-content: space-between;

@@ -1,4 +1,4 @@
-$(document).ready(){
-
-    $(".picbox").fadeIn(10000);
-};
+$(document).ready(function(){
+    
+   $(".d-none").fadeIn(3000);
+});
